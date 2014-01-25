@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>3.1</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <Captions>false</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>slider_setup_renegades_V1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>kenburns</ImageEffect>
+            <ImageFillColor>#4f1413</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>D:/ExampleWebsites/WOW Slider/templates/backgnd/quiet/</ImageTemplate>
+            <ImageTemplateName>Quiet</ImageTemplateName>
+            <ImageWidth>600</ImageWidth>
+            <Images>true</Images>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/xampp/htdocs/renegades/foto/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>D:/xampp/htdocs/renegades/foto</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>10</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>quiet</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>1</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_001.JPG</url>
+                <title>20121110_Renegades_001</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_002.JPG</url>
+                <title>20121110_Renegades_002</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_003.JPG</url>
+                <title>20121110_Renegades_003</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_004.JPG</url>
+                <title>20121110_Renegades_004</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_005.JPG</url>
+                <title>20121110_Renegades_005</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_006.JPG</url>
+                <title>20121110_Renegades_006</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_007.JPG</url>
+                <title>20121110_Renegades_007</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_008.JPG</url>
+                <title>20121110_Renegades_008</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_009.JPG</url>
+                <title>20121110_Renegades_009</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_010.JPG</url>
+                <title>20121110_Renegades_010</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_011.JPG</url>
+                <title>20121110_Renegades_011</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_012.JPG</url>
+                <title>20121110_Renegades_012</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_013.JPG</url>
+                <title>20121110_Renegades_013</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_017.JPG</url>
+                <title>20121110_Renegades_017</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_018.JPG</url>
+                <title>20121110_Renegades_018</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_019.JPG</url>
+                <title>20121110_Renegades_019</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_020.JPG</url>
+                <title>20121110_Renegades_020</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_021.JPG</url>
+                <title>20121110_Renegades_021</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_022.JPG</url>
+                <title>20121110_Renegades_022</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_023.JPG</url>
+                <title>20121110_Renegades_023</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_024.JPG</url>
+                <title>20121110_Renegades_024</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_025.JPG</url>
+                <title>20121110_Renegades_025</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_031.JPG</url>
+                <title>20121110_Renegades_031</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_032.JPG</url>
+                <title>20121110_Renegades_032</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_033.JPG</url>
+                <title>20121110_Renegades_033</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_034.JPG</url>
+                <title>20121110_Renegades_034</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_035.JPG</url>
+                <title>20121110_Renegades_035</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_036.JPG</url>
+                <title>20121110_Renegades_036</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_037.JPG</url>
+                <title>20121110_Renegades_037</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_038.JPG</url>
+                <title>20121110_Renegades_038</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_039.JPG</url>
+                <title>20121110_Renegades_039</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_040.JPG</url>
+                <title>20121110_Renegades_040</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_041.JPG</url>
+                <title>20121110_Renegades_041</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_042.JPG</url>
+                <title>20121110_Renegades_042</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_043.JPG</url>
+                <title>20121110_Renegades_043</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_044.JPG</url>
+                <title>20121110_Renegades_044</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_046.JPG</url>
+                <title>20121110_Renegades_046</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_047.JPG</url>
+                <title>20121110_Renegades_047</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_048.JPG</url>
+                <title>20121110_Renegades_048</title>
+            </Image>
+            <Image>
+                <url>D:/fotos/The Renegades/20121110_Renegades_049.JPG</url>
+                <title>20121110_Renegades_049</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

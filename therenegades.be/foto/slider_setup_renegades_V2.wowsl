@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>3.1</AppVersion>
+            <AutoPlay>false</AutoPlay>
+            <Captions>false</Captions>
+            <CaptionsEffect>slide</CaptionsEffect>
+            <Controls>true</Controls>
+            <GalleryName>slider_setup_renegades_V1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>fade</ImageEffect>
+            <ImageFillColor>#4f1413</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>D:/ExampleWebsites/WOW Slider/templates/backgnd/crystal/</ImageTemplate>
+            <ImageTemplateName>Crystal</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/xampp/htdocs/renegades/slider_publish/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>D:/xampp/htdocs/renegades/slider_publish</PublishPath>
+            <PublishPreview>false</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowTooltips>true</ShowTooltips>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>10</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <TemplateName>crystal</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>64</ThumbWidth>
+            <Thumbnails>true</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>1</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_001.jpg</url>
+                <title>rsz_001</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_002.jpg</url>
+                <title>rsz_002</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_004.jpg</url>
+                <title>rsz_004</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_005.jpg</url>
+                <title>rsz_005</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_011.JPG</url>
+                <title>rsz_011</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_013.jpg</url>
+                <title>rsz_013</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_020.jpg</url>
+                <title>rsz_020</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_023.jpg</url>
+                <title>rsz_023</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_025.jpg</url>
+                <title>rsz_025</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_031.jpg</url>
+                <title>rsz_031</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_033.jpg</url>
+                <title>rsz_033</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_034.jpg</url>
+                <title>rsz_034</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_035.jpg</url>
+                <title>rsz_035</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_039.jpg</url>
+                <title>rsz_039</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_043.jpg</url>
+                <title>rsz_043</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_047.jpg</url>
+                <title>rsz_047</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_052.jpg</url>
+                <title>rsz_052</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_057.jpg</url>
+                <title>rsz_057</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_059.jpg</url>
+                <title>rsz_059</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_063.jpg</url>
+                <title>rsz_063</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_066.jpg</url>
+                <title>rsz_066</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_074.jpg</url>
+                <title>rsz_074</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_080.jpg</url>
+                <title>rsz_080</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_081.jpg</url>
+                <title>rsz_081</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_083.jpg</url>
+                <title>rsz_083</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_084.jpg</url>
+                <title>rsz_084</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_085.jpg</url>
+                <title>rsz_085</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_086.jpg</url>
+                <title>rsz_086</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_087.jpg</url>
+                <title>rsz_087</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_102.jpg</url>
+                <title>rsz_102</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_114.jpg</url>
+                <title>rsz_114</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_115.jpg</url>
+                <title>rsz_115</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_118.jpg</url>
+                <title>rsz_118</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_119.jpg</url>
+                <title>rsz_119</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_125.jpg</url>
+                <title>rsz_125</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_142.jpg</url>
+                <title>rsz_142</title>
+            </Image>
+            <Image>
+                <url>D:/AllThatJazz resources/renegades/fotos/resized/rsz_154.jpg</url>
+                <title>rsz_154</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
