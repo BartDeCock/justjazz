@@ -18,7 +18,7 @@
 			<div id="top_header">
 				<img src="header.jpg" id="img_header" />
 
-					<a id="next_event" href="concert_renegades.pdf" target="_blank">Volgend concert:</br>29 juni</br>Kardinaal Cardijnplein, Bornem</a>
+					<a id="next_event" href="flyeroptredens/flyer_15_03_2014.pdf" target="_blank">Volgend concert:</br>15 Maart</br>CC Belgica, Dendermonde</a>
 
 			</div>
 			
